@@ -20,7 +20,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-3399FF?style=for-the-badge&logo=javascript&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/React-3399FF?style=for-the-badge&logo=react&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-3399FF?style=for-the-badge&logo=node.js&logoColor=white)
-![OCC](https://img.shields.io/badge/Oracle_Cloud_Comerce-3399FF?style=for-the-badge&logo=Oracle&logoColor=white)
+![OCC](https://img.shields.io/badge/Oracle_Comemrce_Cloud-3399FF?style=for-the-badge&logo=Oracle&logoColor=white)
 <!--![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)-->
 
 <!--
